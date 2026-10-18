@@ -1,0 +1,7 @@
+__pycache__/
+*.bak
+todos.json
+pos.json
+log.txt
+.lock
+dist/
